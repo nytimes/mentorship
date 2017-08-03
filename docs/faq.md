@@ -2,15 +2,13 @@
 
 **Tl;dr:** When in doubt, listen actively and ask probing questions.
 
-## Questions / Concerns
-
-**I am not familiar with my mentee’s career goals**
+**Q: How do I figure out my mentee’s career goals?**
 
 In order to be a good coach or mentor you don’t actually need to know about the mentee's career goals. Look at what
 challenges may be similar to challenges you have faced. Actively listen to your mentee about concerns and ask probing questions.
 It is not your job to come up with answers, the mentee likely knows the answer and can get to it with guidance.
 
-**What do I do if I'm not connecting with my mentee?**
+**Q: What do I do if I'm not connecting with my mentee?**
 
 As much as the Mentorship Program tries to perfectly pair mentees/mentors, you can’t expect to walk in the door and have a deep connection. Relationships take time to grow and trust takes time to build. Here are some tips to build your relationship and make each meeting meaningful:
 
@@ -22,11 +20,11 @@ As much as the Mentorship Program tries to perfectly pair mentees/mentors, you c
 
 If you do still do not feel comfortable discussing some issues with your mentee or mentor, focus on what you can learn from that person and look for other informal mentors for other needs.
 
-**What if my mentee hasn’t scheduled meetings?**
+**Q: What if my mentee hasn’t scheduled meetings?**
 Reach out to your mentee and let him or her know that you are looking forward to meeting with them. He or she may feel ill prepared; encourage him or her to meet anyway.  The first meeting should focus on getting to know each other and becoming more comfortable. From there, it will make it easier to discuss your goals and priorities.
 
 
-**My mentee doesn’t like structure**
+**Q: What do I do if my mentee doesn’t like structure?**
 
 Good mentor relationships require planning and structure. Research shows that these tools are effective and have a high rate of success.  Encourage your mentee to give it a try and add it as a potential goal.
 
@@ -35,14 +33,14 @@ overwhelmed with work and structure is actually what they need. They may not hav
 If this is the case, press the reset button and start discussing expectations and goals for the program itself. Such as: How often to meet
 and for how long? What type of relationship do they want from a mentor? What are their goals for the program?
 
-**I have a busy schedule and have to cancel our meetings**
+**Q: I have a busy schedule and have to cancel our meetings. Should I not be a mentor?**
 
 As a New York Times employee, of course you are busy! View this mentorship program as not only a commitment to your mentee/mentor but
 also to yourself. Both sides benefit from this relationship whether it be setting career goals or working on management skills.
 Schedule your sessions far in advance and make them a priority. If you do have to cancel, be sure to get another time on the calendar
 immediately. A good mentorship requires reliability and frequent communication.
 
-**I don't know how to start helping my mentee**
+**Q: I don't know how to start helping my mentee**
 
 Sometimes you just need to start somewhere! Some ideas are:
 
@@ -87,7 +85,7 @@ Sometimes you just need to start somewhere! Some ideas are:
 * Within the team?
 * Outside of work?
 
-(From www.getlighthouse.com)
+(From [www.getlighthouse.com](www.getlighthouse.com))
 ## More Resources
 * [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 * [Get Raised: Salary awareness](https://getraised.com/)

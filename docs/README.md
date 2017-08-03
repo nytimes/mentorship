@@ -81,9 +81,10 @@ Ongoing Support for mentors and mentees
   * Closing event
 * Private slack channels for mentors and mentees to create a space for conversation, encouragement and learnings.
 * [FAQ for the program](faq.md)
-* Expectations
 
-The mentoring relationship should be mentee-driven and mentor-guided. The mentee is expected to identify and drive activity towards his or her career goals. Effective mentorship is built on a solid relationship between the mentor and mentee, so take time to get to know each other, exploring passions and obstacles as they could become relevant (if not already so) to the areas of focus.
+### Expectations
+
+The mentoring relationship should be _**mentee-driven and mentor-guided**_. The mentee is expected to identify and drive activity towards his or her career goals. Effective mentorship is built on a solid relationship between the mentor and mentee, so take time to get to know each other, exploring passions and obstacles as they could become relevant (if not already so) to the areas of focus.
 
 **Requirements for mentors:**
 * Attend the kickoff meeting.
