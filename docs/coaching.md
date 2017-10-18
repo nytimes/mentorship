@@ -1,22 +1,10 @@
 # Coaching Techniques
 
-
-## Table of Contents
-* What is coaching?
-* Why should you get a coach?
-* How to be a coach
-  * 4 basic steps
-  * Tips & Tricks
-  * Open Ended Questions
-* Practice exercise  
-* Resources
-
-
 ## What is coaching?
 
 Coaching is a process to discover and examine your assumptions, ways of thinking, expectations, beliefs, and reactions.
 
-**Coaching is different that mentoring.**
+Coaching is different that mentoring.
 
 | Mentoring   | Coaching  |
 |---                                 | ---                    |
@@ -49,24 +37,25 @@ _"Everyone needs a coach. It doesn't matter whether you're a basketball player, 
 The key to being a coach is to ask **open-ended questions** and employ **actively listening** to challenge assumptions. When someone states a problem, instead of responding with a quick answer, try leading with a question.
 
 
-Your questions should not be judgmental, avoid asking "why?".
+Your questions should not be judgmental, avoid asking "why?". Choose open evaluation over closed evaluation.
 
-* **Open evaluation:** Walk me through your thought process? What’s working? :thumbsup:
-* **Closed evaluation:** Do you have a problem? Why do you keep doing things the same way if they're not working? :thumbsdown:
+* **Good:** Walk me through your thought process? What’s working?
+* **Bad:** Do you have a problem? Why do you keep doing things the same way if they're not working?
 
-### 4 basic steps
+#### The Four Basic Steps
 
-**Step 1:** What's up? -- Figure out the context of the situation someone wants to talk about. _What would you like to talk about?_
+We break down coaching into the four steps listed below. You should be asking open-ended questions at every step!
 
-**Step 2:** What Matters? -- Ask questions to understand what really matters to the person. _What do you really want?_
+ Name | Description | Example questions |
+-------|-------------|-------------------
+Context |  Figure out the context of the situation someone wants to talk about.  |  _What would you like to talk about?_
+Content | Ask questions to understand what really matters to the person. | _What do you really want?_
+Conduct | Probe into the changes or actions the person can do to help solve their problem. | _What will you do?_ _What's next?_
+Commitment | How will the person hold themselves accountable? | _When will you do it?_ _What are you willing to commit to here?_
 
-**Step 3:** What's Next? -- Probe into the changes or actions the person can do to help solve their problem. Ask open questions around next steps.
-_What will you do?_ _What's next?_
 
-**Step 4:** By When? -- Discuss commitment. How will the person how themselves accountable?
-_When will you do it? What are you willing to commit to here?_
 
-### Tips & Tricks
+#### Tips & Tricks
 * See yourself as a thought partner, listen for potential
 * Keep your questions open-ended
 * Encourage self discovery
@@ -76,53 +65,91 @@ _When will you do it? What are you willing to commit to here?_
 * Maintain accountability
 * Celebrate effort and results! :star:
 
-_This is another mindset shift - you shift from listening for the situation, to listening for the person. So it’s common when you listen to someone talk about a problem to be thinking about whether we agree/disagree, whether it makes sense, how we can help, how to connect what they’re saying to what we already know, what we would do. You feel this need to ask for more and more information so that we can really understand their situation._
+> This is another mindset shift - you shift from listening for the situation, to listening for the person. So it’s common when you listen to someone talk about a problem to be thinking about whether we agree/disagree, whether it makes sense, how we can help, how to connect what they’re saying to what we already know, what we would do. You feel this need to ask for more and more information so that we can really understand their situation._
 
-_The truth is we actually don’t need to know all about their situation - THEY know their situation. When you shift to listen for the person, you pay attention to what they reveal about their values, their motives, their needs… You can use open-ended questions to help them explore._
+> The truth is we actually don’t need to know all about their situation - THEY know their situation. When you shift to listen for the person, you pay attention to what they reveal about their values, their motives, their needs… You can use open-ended questions to help them explore.
 
--- [Charlyn Gee](https://open.nytimes.com/@charlyngeeNYT), Engineering Manager at The New York Times
+
+> -- [Charlyn Gee](https://open.nytimes.com/@charlyngeeNYT), _Engineering Manager at The New York Times_
 
 ### Open Ended Questions
-Below are examples of open-ended question you can use when coaching.
-
-Explore options and generate solutions:
-
-* What do you want?
-* What are you building toward?
-* What is the real reason you want that?
-* What is beyond this problem?
-* What do you hope to accomplish by doing that?
-* What do you think some options are?
-* What are your criteria for choosing?
-* What do you think you should do?
-* What’s the first step?
-* What’s in your way?
-* What would happen if you did nothing?
-* What advice would you give to a friend about that?
-* What’s your intuition telling you?
-* What is the ideal?
-* What would it look like?
-* What decision would you make from a position of strength?
-
-Probe for and achieve commitment:
-
-* What do you need to put in place to accomplish this?
-* What are you willing to commit to here?
-* What are you responsible for here?
-* What are you willing to give up?
-* What is the worst that can happen?
-* What are you avoiding?
-* What made you react this way?  
-* How is this way serving you?
-* What one small step will you take now?
-* When are you going to start?
-* How will you know you have been successful?
-* What do you need from me/others to help you achieve this?
-* On a scale of one to ten, how committed/motivated are you to doing it?
-* What would it take to make it a ten?
 
 
-_(These are expanded from a list by Laura Berman Fortgang.)_
+<div>
+  <table>
+      <tr>
+        <td>Context</td>
+        <td>
+        <ul>
+          <li> What do you want to talk about?</li>
+          <li> Can you tell me more? </li>
+          <li> What is the aim of this discussion?</li>
+          <li> What would need to happen for you to walk away feeling that this time was well spent?</li>
+          <li> What seems to be the main obstacle?</li>
+          <li> Can you say more? </li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td> Content </td>
+        <td>
+          <ul>
+            <li>What do you want?</li>
+            <li>What are you building toward?</li>
+            <li>What is the real reason you want that?</li>
+            <li>What is beyond this problem?</li>
+            <li>What will you think about this five years from now?</li>
+            <li>In the bigger scheme of things, how important is this?</li>
+            <li>How does this relate to your life purpose?</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td> Conduct </td>
+        <td>
+          <ul>
+            <li> What do you think some options are?</li>
+            <li> What are your criteria for choosing?</li>
+            <li> What do you think you should do?</li>
+            <li> What’s the first step?</li>
+            <li> What’s in your way?</li>
+            <li> What would happen if you did nothing?</li>
+            <li> What advice would you give to a friend about that?</li>
+            <li> What’s your intuition telling you?</li>
+            <li> What do you hope to accomplish by doing that?</li>
+            <li> What is the ideal?</li>
+            <li> What decision would you make from a position of strength?</li>
+            <li> What do you need to put in place to accomplish this?</li>
+            <li> What are you willing to commit to here?</li>
+            <li> What are you responsible for here?</li>
+            <li> What are you willing to give up?</li>
+            <li> What is the worst that can happen?</li>
+            <li> What are you avoiding?</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Commitment</td>
+        <td>
+          <ul>
+            <li> What one small step will you take now?</li>
+            <li> When are you going to start?</li>
+            <li> How will you know you have been successful?</li>
+            <li> What do you need from me/others to help you achieve this?</li>
+            <li> On a scale of one to ten, how committed/motivated are you to doing it?</li>
+            <li> What would it take to make it a ten?</li>
+            <li> What are your next steps? By what date or time will you complete these steps?</li>
+          </ul>
+        </td>
+      </tr>
+  </table>
+</div>
+
+
+**Pro Tip:** WHAT questions have a tendency to focus outwards, towards action and the future.
+
+**Pro Tip:** When in doubt, just employ active listening. "What I'm hearing is ...."
+
 
 ## Practice exercise  
 In order to be a great coach, you need to practice! Here is a 25 minute exercise you can do with a partner to start working on your coaching skills.
@@ -144,7 +171,6 @@ In order to be a great coach, you need to practice! Here is a 25 minute exercise
 
 Now, switch roles and try again!
 
-----
 
 ## Resources
 * [12 Ways You Might Benefit From Coaching](https://www.linkedin.com/pulse/20140205155921-19987-12-ways-you-just-might-benefit-from-coaching/)
