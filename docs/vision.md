@@ -16,7 +16,7 @@ Some examples:
 
 Choose one unthinkable goal from above to focus on for the remainder of the steps and write it down below.
 ```
-    My unthinkable goal is ...
+My unthinkable goal is ...
 
 
 
@@ -41,7 +41,7 @@ Some examples:
 * I want to write a book BUT my day job is so draining, that I don't think I have the energy to do it.
 
 ```
-  My blockers are ...
+My blockers are ...
 
 
 
@@ -117,7 +117,7 @@ Some examples:
 * I just received a printed copy of my book and I'm trilled! I'm so proud of myself for accomplishing such an ambitious goal. The book has gotten good reviews and I'm going on a book tour next week.
 
 ```
-    My vision for myself is ...
+My vision for myself is ...
 
 
 
@@ -140,7 +140,7 @@ Some examples:
 * My goal is to write a book. One SMART goal is to write for half an hour every day next week.
 
 ```
-    Some of my SMART goals are:
+Some of my SMART goals are:
 
 
 
@@ -163,7 +163,7 @@ Some examples:
 * After I complete my week of writing, I'm going to schedule drinks with my good friends.
 
 ```
-     I'm going to celebrate by ...
+I'm going to celebrate by ...
 
 
 
@@ -186,7 +186,7 @@ Some examples:
 * If I'm not able to write at home because of all the distractions, I will pay for time at a co-working space.
 
 ```
-    Some of my if/then's are ...
+Some of my if/then's are ...
 
 
 
