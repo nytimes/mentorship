@@ -8,9 +8,9 @@ Coaching is different that mentoring.
 
 | Mentoring   | Coaching  |
 |---                                 | ---                    |
-| goal is teaching skills or guiding | goal is self-reliance  |
-| give answers                       | grow answers           |
-| mentor is a expert                 | coach is a partner     |
+| Goal is teaching skills or guiding | Goal is self-reliance  |
+| Give answers                       | Grow answers           |
+| Mentor is a expert                 | Coach is a partner     |
 
 
 ## Why should you get a coach?
@@ -65,12 +65,12 @@ Commitment | How will the person hold themselves accountable? | _When will you d
 * Maintain accountability
 * Celebrate effort and results! :star:
 
-> This is another mindset shift - you shift from listening for the situation, to listening for the person. So it’s common when you listen to someone talk about a problem to be thinking about whether we agree/disagree, whether it makes sense, how we can help, how to connect what they’re saying to what we already know, what we would do. You feel this need to ask for more and more information so that we can really understand their situation._
+#### Advice from an expert
 
-> The truth is we actually don’t need to know all about their situation - THEY know their situation. When you shift to listen for the person, you pay attention to what they reveal about their values, their motives, their needs… You can use open-ended questions to help them explore.
+> This is another mindset shift - you shift from listening for the situation, to listening for the person. So it’s common when you listen to someone talk about a problem to be thinking about whether we agree/disagree, whether it makes sense, how we can help, how to connect what they’re saying to what we already know, what we would do. You feel this need to ask for more and more information so that we can really understand their situation.
+The truth is we actually don’t need to know all about their situation - THEY know their situation. When you shift to listen for the person, you pay attention to what they reveal about their values, their motives, their needs… You can use open-ended questions to help them explore.
 
-
-> -- [Charlyn Gee](https://open.nytimes.com/@charlyngeeNYT), _Engineering Manager at The New York Times_
+-- [Charlyn Gee](https://open.nytimes.com/@charlyngeeNYT), _Engineering Manager at The New York Times_
 
 ### Open Ended Questions
 

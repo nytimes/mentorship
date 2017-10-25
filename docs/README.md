@@ -1,6 +1,6 @@
 # The New York Times Digital Mentorship Program
 
-This mentorship program was developed for the digital organization at _The New York Times_. We are making the resources publicly available in case they are useful to other organizations.
+This mentorship program was developed for the digital organization at The New York Times. We are making the resources publicly available in case they are useful to other organizations.
 
 The primary focus of this program is to help participants clarify their career vision, develop new skills and gain confidence in the skills they already have. We believe that focusing on career development increases job satisfaction and organizational commitment, as well as builds a diverse pipeline of future leaders.
 
