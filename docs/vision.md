@@ -15,7 +15,7 @@ Some examples:
 
 
 Choose one unthinkable goal from above to focus on for the remainder of the steps and write it down below.
-
+```
     My unthinkable goal is ...
 
 
@@ -28,7 +28,8 @@ Choose one unthinkable goal from above to focus on for the remainder of the step
 
 
 
-                                                                .
+                                                                
+```                                                                
 
 ### 2. Name your blockers
 
@@ -39,10 +40,8 @@ Some examples:
 * I want to give a talk at a conference BUT I don't know conferences are good to submit to.
 * I want to write a book BUT my day job is so draining, that I don't think I have the energy to do it.
 
-
-    My blockers are ...
-
-
+```
+  My blockers are ...
 
 
 
@@ -52,7 +51,11 @@ Some examples:
 
 
 
-                                                            .
+
+
+
+                                                                      
+```
 
 
 ### 3. Create a mantra
@@ -64,7 +67,8 @@ Some examples:
 * My goal is to write a book and my mantra is "I observe the world".
 
 
-    My mantra is ...
+```
+My mantra is ...
 
 
 
@@ -75,7 +79,7 @@ Some examples:
 
 
 
-                                                            .
+```
 
 
 ### 4. Describe your starting point with respect to your goal.
@@ -89,10 +93,8 @@ Some examples:
 
 * My goal is to write a book. I have an idea for the book and I have a draft of the first chapter. I have a weekly writing group that I attend. I have never written a book fore.
 
-
-    My starting point is ...
-
-
+```shell
+My starting point is ...
 
 
 
@@ -101,8 +103,9 @@ Some examples:
 
 
 
-                                                        .
 
+
+```
 
 ### 5. Write a vision
 
@@ -113,7 +116,7 @@ Some examples:
 * I just gave my first conference talk. I got a great reception and people have already reached out to me about giving the talk at their companies. I've also enjoyed meeting people at the conference and have had the opportunity to travel to a cool city.
 * I just received a printed copy of my book and I'm trilled! I'm so proud of myself for accomplishing such an ambitious goal. The book has gotten good reviews and I'm going on a book tour next week.
 
-
+```
     My vision for myself is ...
 
 
@@ -125,7 +128,7 @@ Some examples:
 
 
 
-                                                        .
+```
 
 ### 6. Define SMART goals
 
@@ -136,7 +139,7 @@ Some examples:
 * My goal is to give a talk at a conference. One SMART goal is to write down 25 different talk ideas by the end of this week and then get a colleague's feedback about them by the end of next week.
 * My goal is to write a book. One SMART goal is to write for half an hour every day next week.
 
-
+```
     Some of my SMART goals are:
 
 
@@ -148,7 +151,7 @@ Some examples:
 
 
 
-                                                        .
+```
 
 ### 7. Make a celebration strategy
 
@@ -159,7 +162,7 @@ Some examples:
 * After I write down my talk ideas and get feedback on them, I'm going to put a gold sticker on my goal planning notebook.
 * After I complete my week of writing, I'm going to schedule drinks with my good friends.
 
-
+```
      I'm going to celebrate by ...
 
 
@@ -171,7 +174,7 @@ Some examples:
 
 
 
-                                                        .
+```
 
 ### 8. Write down if-thens
 
@@ -182,7 +185,7 @@ Some examples:
 * If my talk gets rejected, I will ask the organizers for feedback about why and submit it again somewhere else.
 * If I'm not able to write at home because of all the distractions, I will pay for time at a co-working space.
 
-
+```
     Some of my if/then's are ...
 
 
@@ -194,4 +197,4 @@ Some examples:
 
 
 
-                                                        .
+```
